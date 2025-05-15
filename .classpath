@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/Python 3.12 (Homework 3 Z-Score Python Script)"/>
+	<classpathentry kind="output" path="out/production/Homework 3 Z-Score Python Script"/>
+</classpath>
