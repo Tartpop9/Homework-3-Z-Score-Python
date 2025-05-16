@@ -99,7 +99,8 @@ def z_score(x, mu, sigma):
     Returns the z-score of x
     """
 
-    # Participating group member names go in this comment
+    # Tre'Vyon Bates
+    # Samantha Scofield
 
     # Your code goes between this comment and the return statement
     z = (x - mu)/sigma
